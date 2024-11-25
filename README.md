@@ -5,7 +5,7 @@
 
 - ✉️ **Email**: kaudtn12@gmail.com
 
-### Project
+### 📓 Project
 
 - [Pokemon] (https://github.com/audtnnn/Pokemon)
 - [YeogiEottae] (https://github.com/audtnnn/travel_platform)
