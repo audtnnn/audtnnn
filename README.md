@@ -7,5 +7,5 @@
 
 ### 📓 Project
 
-- [Pokemon](https://github.com/audtnnn/Pokemon)
-- [YeogiEottae](https://github.com/audtnnn/TravelPlatform)
+- [Pokemon 리디자인](https://github.com/audtnnn/Pokemon)
+- [YeogiEottae 리디자인](https://github.com/audtnnn/TravelPlatform)
